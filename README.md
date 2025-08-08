@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Mayron Hudson
 
-<!--
-**MayronHudson/MayronHudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Iniciando na jornada de desenvolvimento web e programação
+- 📚 Atualmente aprendendo HTML, CSS e JavaScript
+- 🚀 Buscando aprimorar minhas habilidades e criar meus primeiros projetos
+- 📌 Aberto a conexões e colaborações para aprender e crescer na área de tecnologia
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+##
+<div>
+ <a href="https://www.linkedin.com/in/mayron-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
